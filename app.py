@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 DAY_ORDER = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-DATA_PATH = "data/Afficionado_Coffee_Roasters.csv"
+DATA_PATH = "Afficionado_Coffee_Roasters.csv"
 
 CUSTOM_CSS = """
 <style>
