@@ -33,7 +33,7 @@ CUSTOM_CSS = """
     padding: 14px 16px 6px 16px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
-[data-testid="stMetricLabel"] {font-weight: 600; color: #6b4f3b;}
+[data-testid="stMetricValue"] {color: #3b2418 !important; font-weight: 700;}
 h1, h2, h3 {color: #3b2418;}
 .stTabs [data-baseweb="tab"] {font-size: 15px; font-weight: 600;}
 </style>
