@@ -1,5 +1,7 @@
 # ☕ Afficionado Coffee Roasters — Streamlit Dashboard
 
+project aap link : https://zswgkk6hpaz3sbwyp2ha4m.streamlit.app/
+
 A live, interactive Streamlit web app covering:
 
 - **Overall sales trend dashboard** — daily/monthly revenue & quantity trends with a 7-day moving average
